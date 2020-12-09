@@ -1,0 +1,38 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; font-family: 'Roboto', sans-serif;}
+
+
+
+#timer{
+
+    font-size: 82px;
+    color: rgba(255, 0, 0, 0.815);
+}
+
+.christ{
+    font-size: 100px;
+    margin: 50px;
+}
+
+
+.christmas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+}
+               
+.tree img{
+          width: 500px;
+          height:500px;
+}
+
+.gift img{
+    width: 500px;
+          height:500px;
+}
+
+.article{
+    width: 80%;
+    border: 2px solid red;
+    margin: 50px;
+    padding: 50px;
+}
